@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you 👋.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you 👋</h1>
 
 <p>Welcome to my Github profile! </br> I’m someone who loves exploring programming and new ideas, constantly curious about technology and how it can be used to create meaningful digital experiences, while always challenging myself to learn and build more.</p>
 
